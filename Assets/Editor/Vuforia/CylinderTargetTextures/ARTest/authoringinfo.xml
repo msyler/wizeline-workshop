@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="nar" version="3.0" targetId="6f8eb68daf6f4195982bbea7032bf686" sideLength="20.000000" topDiameter="6.600000" bottomDiameter="6.600000" sideImage="nar.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
